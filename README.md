@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-_**This Can Be Prevewed On pantrytracker.johnathonlu.com**_
+_**This Can Be Prevewed On ['here'](pantrytracker.johnathonlu.com)**_
 
 ## Getting Started
 
